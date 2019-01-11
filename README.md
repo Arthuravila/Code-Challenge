@@ -1,4 +1,4 @@
-# Kobe Code Challenge
+# Code Challenge
 This is an Android App for cinephiles and movie hobbyists, fed with content from The Movie Database ([TMDb]).
 You can find information about upcoming movies - including movie name, poster image, genre and release date. Additionally, you can search for movies by entering a partial or full movie name.
 ## Getting Started
